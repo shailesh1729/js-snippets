@@ -184,3 +184,5 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
+
+highlight_language = 'typescript'

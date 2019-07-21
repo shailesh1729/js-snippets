@@ -6,15 +6,16 @@ JavaScript Code Snippets
    :caption: Contents:
 
    language/index
-   misc/index
    text/index
-   aws/index
+   os/index
    rest/index
+   aws/index
    image/index
    email/index
    express/index
    functional/index
    socket_io/index
+   misc/index
 
 Indices and tables
 ==================
